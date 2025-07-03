@@ -1,0 +1,97 @@
+*,html {
+    margin: 0;
+    padding: 0;
+}
+
+body.body-index {
+    background-color:black;
+}
+
+div.navbar-index {
+    background-color: grey;
+    height: 5vh;
+}
+
+ul.ul-navbar-index {
+    display: flex;
+}
+
+li.li-navbar-index {
+    list-style-type: none;
+    margin: 5px;
+}
+
+li.li-navbar-index:hover {
+    background-color: black;
+    transition: 0.5s ease-in-out;
+    transition-delay: 0.3s;
+    border-radius: 4px;
+}
+
+a.navbar-index {
+    color: white;
+    text-decoration: none;
+}
+
+div.firstdiv-index {
+    background-color:grey;
+    height: 10vh;
+}
+
+h1.firstheader-index {
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    text-align: center;
+}
+
+p.firstpar-index {
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    text-align: center;
+}
+
+div.seconddiv-index {
+    text-align: center;
+    height: 35vh;
+}
+
+p.secondpar-index {
+    text-align: center;
+    color: white;
+}
+
+img.firstimg-index {
+    width: 250px;
+    height: 250px;
+}
+
+div.thirddiv-index {
+    height: 40vh
+}
+
+p.thirdpar-index {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color:white;
+}
+
+div.footer-index {
+    background-color:grey;
+    height: 5vh;
+}
+
+p.fourthpar-index {
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    text-align: center;
+}
+
+body.body-about {
+    background-color:black;
+}
+
+p.firstpar-about {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:white;
+}
